@@ -153,7 +153,7 @@
         audio.play().catch(e => console.log("browser saved you man"));
         
         setTimeout(() => {
-            window.location.href = 'comments.php';
+            window.location.href = '../comments.php';
         }, 2000);
     }
 </script>
