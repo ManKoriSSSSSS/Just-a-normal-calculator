@@ -44,7 +44,7 @@
 
     <div class="title">Calculator</div>
     
-    <button class="use-button" onclick="window.location.href='calc.php'">
+    <button class="use-button" onclick="window.location.href='calc/calc.php'">
         USE
     </button>
 
